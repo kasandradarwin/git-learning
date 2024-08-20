@@ -1,6 +1,6 @@
 
 var printMe = "this is a test file"
 
-var thisWillCreateAConflict = "conflict"
+var thisWillCreateAConflict = "conflicgfdgdfgfdgdfgfdsgdft"
 
 console.log(printMe)
